@@ -1,3 +1,4 @@
+# ⭐Now the application is deployed on Netlify. Please check out this link! https://main--charming-otter-fa4735.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
